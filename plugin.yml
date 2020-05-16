@@ -1,0 +1,7 @@
+name: KiberServer
+version: 1.0.0
+author: HappyIceGriefYT
+main: ru.filkworld.cf.kserver
+  commands:
+  	suget:
+  	description: Показывает сюжет
